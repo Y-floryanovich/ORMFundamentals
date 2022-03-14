@@ -1,0 +1,12 @@
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\DapperDataAccess.deps.json
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\DapperDataAccess.dll
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\ref\DapperDataAccess.dll
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\DapperDataAccess.pdb
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.csproj.AssemblyReference.cache
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.AssemblyInfoInputs.cache
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.AssemblyInfo.cs
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.csproj.CoreCompileInputs.cache
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.dll
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\ref\DapperDataAccess.dll
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.pdb
