@@ -1,3 +1,4 @@
+using DapperDataAccess;
 using Domain;
 using EFDataAccess;
 using Microsoft.AspNetCore.Builder;
@@ -35,6 +36,9 @@ namespace ORMFund
             });
             services.AddControllers();
             services.AddScoped<IProductRepository<Product>, ProductRepository>();
+            services.AddTransient<IBulkProductRepository, BulkProductRepository>();
+            services.AddTransient<IConnectionProvider, ConnectionProvider>();
+            services.AddTransient<IOrderRepository, OrderRepository>(provider => new OrderRepository(new ConnectionProvider(Configuration)));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ORMFund", Version = "v1" });

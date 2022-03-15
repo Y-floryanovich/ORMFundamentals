@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMFund", "ORMFund.csproj", "{733F35F8-D535-41EE-802D-F9A89EE8809A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORMFund", "ORMFund.csproj", "{733F35F8-D535-41EE-802D-F9A89EE8809A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccess", "..\EFDataAccess\EFDataAccess.csproj", "{6FA3544A-3298-4705-9C3D-19EB25404E01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFDataAccess", "..\EFDataAccess\EFDataAccess.csproj", "{6FA3544A-3298-4705-9C3D-19EB25404E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDataAccess", "..\DapperDataAccess\DapperDataAccess.csproj", "{EF66C49F-62C0-4A3A-AD63-36816A1D24E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDataAccess", "..\DapperDataAccess\DapperDataAccess.csproj", "{EF66C49F-62C0-4A3A-AD63-36816A1D24E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{CC1510AC-2913-4032-9118-49640EB9B9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{CC1510AC-2913-4032-9118-49640EB9B9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{042D8576-A424-4967-951E-AC16BB3FC748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CC1510AC-2913-4032-9118-49640EB9B9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1510AC-2913-4032-9118-49640EB9B9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1510AC-2913-4032-9118-49640EB9B9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D8576-A424-4967-951E-AC16BB3FC748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D8576-A424-4967-951E-AC16BB3FC748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D8576-A424-4967-951E-AC16BB3FC748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D8576-A424-4967-951E-AC16BB3FC748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

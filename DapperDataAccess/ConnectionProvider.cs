@@ -8,7 +8,7 @@ namespace DapperDataAccess
     {
         IDbConnection CreateConnection();
     }
-    internal class ConnectionProvider : IConnectionProvider
+    public class ConnectionProvider : IConnectionProvider
     {
         private readonly IConfiguration _configuration;
         public ConnectionProvider(

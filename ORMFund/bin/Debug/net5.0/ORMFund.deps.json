@@ -1484,6 +1484,7 @@
       "DapperDataAccess/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.123",
+          "Domain": "1.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "System.Data.SqlClient": "4.8.3"
         },

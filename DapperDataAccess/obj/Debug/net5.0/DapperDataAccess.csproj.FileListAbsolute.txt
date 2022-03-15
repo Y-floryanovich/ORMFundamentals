@@ -10,3 +10,6 @@ C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAcc
 C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.dll
 C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\ref\DapperDataAccess.dll
 C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.pdb
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\Domain.dll
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\bin\Debug\net5.0\Domain.pdb
+C:\.NET Basic\ORMFundamentalsWeb\DapperDataAccess\obj\Debug\net5.0\DapperDataAccess.csproj.CopyComplete
