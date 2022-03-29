@@ -23,7 +23,6 @@ C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.IdentityMode
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -37,13 +36,9 @@ C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\System.Security.Crypto
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
@@ -74,3 +69,11 @@ C:\.NET Basic\ORMFundamentalsWeb\ORMFund\obj\Debug\net5.0\ORMFund.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\obj\Debug\net5.0\ORMFund.genruntimeconfig.cache
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Humanizer.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\NetTopologySuite.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\SQLitePCLRaw.core.dll

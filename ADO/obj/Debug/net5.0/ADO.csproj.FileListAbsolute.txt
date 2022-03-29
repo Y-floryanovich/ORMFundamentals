@@ -1,0 +1,15 @@
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\ADO.deps.json
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\ADO.dll
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\ref\ADO.dll
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\ADO.pdb
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\Domain.dll
+C:\.NET Basic\ORMFundamentalsWeb\ADO\bin\Debug\net5.0\Domain.pdb
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.csproj.AssemblyReference.cache
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.AssemblyInfoInputs.cache
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.AssemblyInfo.cs
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.csproj.CoreCompileInputs.cache
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.csproj.CopyComplete
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.dll
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ref\ADO.dll
+C:\.NET Basic\ORMFundamentalsWeb\ADO\obj\Debug\net5.0\ADO.pdb
