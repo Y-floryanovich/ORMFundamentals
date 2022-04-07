@@ -5,7 +5,6 @@ C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ORMFund.deps.json
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ORMFund.runtimeconfig.json
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ORMFund.runtimeconfig.dev.json
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ORMFund.dll
-C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ref\ORMFund.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\ORMFund.pdb
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Dapper.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -77,3 +76,4 @@ C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\Microsoft.Extensions.D
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\NetTopologySuite.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
 C:\.NET Basic\ORMFundamentalsWeb\ORMFund\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\.NET Basic\ORMFundamentalsWeb\ORMFund\obj\Debug\net5.0\refint\ORMFund.dll

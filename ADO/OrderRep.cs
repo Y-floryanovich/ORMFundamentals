@@ -123,7 +123,7 @@ namespace ADO
             return orders;
         }
 
-        public void Delete(int? month = null,
+        public async void Delete(int? month = null,
             Status? status = null,
             int? year = null,
             int? productId = null)
@@ -147,6 +147,7 @@ namespace ADO
                 cmd.Dispose();
                 con.Close();
                 transaction.Commit();
+                await transaction.DisposeAsync();
             }
             catch (Exception e)
             {

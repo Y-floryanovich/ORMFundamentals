@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\Tests\Tests.csproj", "{042D8576-A424-4967-951E-AC16BB3FC748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO", "..\ADO\ADO.csproj", "{D43784BC-1598-4AEE-9C1C-893014455198}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO", "..\ADO\ADO.csproj", "{D43784BC-1598-4AEE-9C1C-893014455198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{B036DDC2-B83C-461C-9DBC-6510CBCE677E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D43784BC-1598-4AEE-9C1C-893014455198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43784BC-1598-4AEE-9C1C-893014455198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43784BC-1598-4AEE-9C1C-893014455198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B036DDC2-B83C-461C-9DBC-6510CBCE677E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B036DDC2-B83C-461C-9DBC-6510CBCE677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B036DDC2-B83C-461C-9DBC-6510CBCE677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B036DDC2-B83C-461C-9DBC-6510CBCE677E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

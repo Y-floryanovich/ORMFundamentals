@@ -1,6 +1,5 @@
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\EFDataAccess.deps.json
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\EFDataAccess.dll
-C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\ref\EFDataAccess.dll
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\EFDataAccess.pdb
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\Domain.dll
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\Domain.pdb
@@ -16,3 +15,4 @@ C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\obj\Debug\net5.0\EFDataAccess.pdb
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\EFDataAccess.runtimeconfig.json
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\bin\Debug\net5.0\EFDataAccess.runtimeconfig.dev.json
 C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\obj\Debug\net5.0\EFDataAccess.genruntimeconfig.cache
+C:\.NET Basic\ORMFundamentalsWeb\EFDataAccess\obj\Debug\net5.0\refint\EFDataAccess.dll
